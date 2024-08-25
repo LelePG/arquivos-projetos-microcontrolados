@@ -1,8 +1,19 @@
 # 🗃️ Arquivo Projetos Microcontrolados
 
-Neste repositório você encontra vários projetos pequenos envolvendo Arduino e as placas ESP (ESP-32 e ESP-8266) que eu considero que não valem a pena estar em um repositório específico.
+Nesse repositório armazeno alguns exemplos de código e pequenos projetos desenvolvidos com placas microcontroladas.
+
+## ⚙️ Projetos por linguagem de programação
+
+- [Arduino](./arduino/)
+- [CircuitPython](./circuitpython/)
+- [MicroPython](./micropython/)
 
 ## ⚙️ Projetos por placa
 
--   [Arduino](./Arduino/)
--   [ESP-8266](./Esp-8266/)
+- Arduino Uno:
+  - [Arduino](./arduino/arduino-uno/)
+- Franzininho Wifi:
+  - [MicroPython](./micropython/)
+  - [CircuitPython](./circuitpython/)
+- ESP-8266
+  - [Arduino](./arduino/esp-8266/)
